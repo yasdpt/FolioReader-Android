@@ -8,7 +8,7 @@ ext {
     bintrayRepo = 'maven'
     bintrayName = 'folioreader'
 
-    publishedGroupId = 'com.jideguru'
+    publishedGroupId = 'com.staryas'
     libraryName = 'FolioReader'
     artifact = 'folioreader'
 

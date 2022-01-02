@@ -12,8 +12,8 @@
     <string name="define">Определить</string>
     <string name="highlight">Выделить</string>
 
-    <string name="pages_left">Осталось %1$d страниц</string>
-    <string name="page_left">Остался %1$d страница</string>
+    <string name="pages_left">Осталось %1$d страниц - %2$d</string>
+    <string name="page_left">Остался %1$d страница - %2$d</string>
     <string name="highlights">Выделенные</string>
     <string name="style">Стиль</string>
     <string name="titlesMeta">&lt;tr&gt;&lt;td&gt;Названии:&lt;/td&gt;</string>

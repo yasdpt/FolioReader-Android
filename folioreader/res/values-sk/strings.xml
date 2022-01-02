@@ -12,8 +12,8 @@
     <string name="define">Definícia</string>
     <string name="highlight">Zvýrazniť</string>
 
-    <string name="pages_left">%1$d strán zostáva</string>
-    <string name="page_left">%1$d strana zostáva</string>
+    <string name="pages_left">%1$d strán zostáva - %2$d</string>
+    <string name="page_left">%1$d strana zostáva - %2$d</string>
     <string name="highlights">Zvýraznené</string>
     <string name="half_speed">1/2x</string>
     <string name="onex">1x</string>

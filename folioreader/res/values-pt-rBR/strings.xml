@@ -21,8 +21,8 @@
     <string name="contents">Conteúdo</string>
     <string name="dictionary">Dicionário</string>
     <string name="cannot_access_epub_message">Sem permissão para acessar o epub</string>
-    <string name="pages_left">%1$d páginas restando</string>
-    <string name="page_left">Resta %1$d página</string>
+    <string name="pages_left">%1$d páginas restando - %2$d</string>
+    <string name="page_left">Resta %1$d página - %2$d</string>
     <string name="change_Font">Trocar fonte</string>
     <string name="change_Font_Color">Cor da fonte</string>
     <string name="changeStyle">Trocar estilo</string>

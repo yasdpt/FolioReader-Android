@@ -24,8 +24,8 @@
     <string name="define">Define</string>
     <string name="highlight">Highlight</string>
 
-    <string name="pages_left">%1$d pages left</string>
-    <string name="page_left">%1$d page left</string>
+    <string name="pages_left">%1$d pages left from %2$d</string>
+    <string name="page_left">%1$d page left from %2$d</string>
     <string name="highlights">Highlights</string>
     <string name="bookmarks">Bookmarks</string>
     <string name="half_speed">1/2x</string>

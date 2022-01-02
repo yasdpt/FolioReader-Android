@@ -712,7 +712,7 @@ class FolioPageFragment : Fragment(),
                 getString(R.string.page_left)
             val pagesRemainingStr = String.format(
                 Locale.US,
-                pagesRemainingStrFormat, pagesRemaining
+                pagesRemainingStrFormat, pagesRemaining, totalPages
             )
 
             val minutesRemaining =

@@ -36,8 +36,8 @@ if (propertiesFile.exists()) {
     properties.load(propertiesFile.newDataInputStream())
 
     bintray {
-        user = properties.getProperty("bintray.user")
-        key = properties.getProperty("bintray.apikey")
+        user = "fouladiyas@gmail.com"
+        key = "AKCp8kqC4egHWpsuxhUmetCK6N8DVhAzEz4cMbWZVT47muZMGzyppkbSDv7pGW3yq8Zzz6gxb"
 
         configurations = ['archives']
         pkg {
